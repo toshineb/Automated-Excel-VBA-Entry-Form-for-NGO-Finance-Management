@@ -8,7 +8,7 @@ This project is an **automated financial entry system** designed using **Microso
 
 > As seen in the image below, the dashboard uses a structured **VBA-powered form** that allows users to input, edit, search, and delete financial entries all from a single interactive panel.
 
-![VBA Form in Action](./form.png)
+![VBA Form in Action](/form.png)
 
 ---
 
