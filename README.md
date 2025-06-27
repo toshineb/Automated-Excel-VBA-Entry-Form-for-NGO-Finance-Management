@@ -4,9 +4,9 @@
 
 ## 📌 Project Overview
 
-This project is an **automated financial entry system** designed using **Microsoft Excel VBA** for a nonprofit organization — "Boys Without Borders." It streamlines the **income and expense logging process** by replacing manual spreadsheet entry with a clean, intuitive **UserForm interface**.
+This project is an **automated financial entry system** designed using **Microsoft Excel VBA** for a nonprofit organization "Boys Without Borders." It streamlines the **income and expense logging process** by replacing manual spreadsheet entry with a clean, intuitive **UserForm interface**.
 
-> As seen in the image below, the dashboard uses a structured **VBA-powered form** that allows users to input, edit, search, and delete financial entries — all from a single interactive panel.
+> As seen in the image below, the dashboard uses a structured **VBA-powered form** that allows users to input, edit, search, and delete financial entries all from a single interactive panel.
 
 ![VBA Form in Action](./form.png)
 
@@ -40,7 +40,7 @@ This project solves a common nonprofit and SME challenge — tracking funds with
 - Offers transparency through structured records
 - Empowers non-technical users to manage finances effectively
 
-This kind of tool demonstrates not only VBA proficiency but also **practical business acumen**, **process optimization**, and **end-user empathy** — crucial for any data role focused on operational efficiency.
+This kind of tool demonstrates not only VBA proficiency but also **practical business acumen**, **process optimization**, and **end-user empathy** crucial for any data role focused on operational efficiency.
 
 ---
 
