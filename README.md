@@ -1,6 +1,6 @@
 # 📋 Automated Excel VBA Entry Form for NGO Finance Management
 
-![Launch Form](/Launch 1.png)
+![Launch Form](/launch 1.png)
 
 ## 📌 Project Overview
 
